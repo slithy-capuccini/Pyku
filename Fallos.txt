@@ -1,0 +1,4 @@
+
+elif(answer in()):
+    labelRespuestaFallida=Label(miFrame, text=)
+    miFrame.create_window(940,550 ,window=labelRespuestaFallida)
